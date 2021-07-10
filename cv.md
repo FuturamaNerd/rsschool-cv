@@ -33,6 +33,29 @@ int ShiftLFSR(LinearFeedbackShiftRegister *LFSR, LinearFeedbackShiftRegister Pol
         return 1;
     }
 }
+## experience
+
+* assisted in the setting up of a book fair
+* coded several encryptors for a university project in C
+* coded prototypes for restaurant software, ecological simulator
+* successfully implemented several data structures such as self-balancing and non-self-balancing search trees
+## education
+
+**high school**
+* British-Georgian School
+* New School international
+
+**university**
+
+* currently enrolled in San Diego State University
+* currently taking an introductory course in web development
+
+
+## language
+
+* fluent in english
+* intermediate knowledge of georgian
+
 
 void SeedNumbers(){
     LFSR32Bit = 0xF0F0F;
